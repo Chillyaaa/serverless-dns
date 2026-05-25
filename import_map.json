@@ -5,6 +5,6 @@
     "process": "node:process",
     "@serverless-dns/dns-parser": "https://raw.githubusercontent.com/serverless-dns/dns-parser/v2.1.2/index.js",
     "@serverless-dns/lfu-cache": "https://raw.githubusercontent.com/serverless-dns/lfu-cache/v3.5.2/lfu.js",
-    "@serverless-dns/trie/": "https://raw.githubusercontent.com/serverless-dns/trie/v0.0.17/src/",
+    "@serverless-dns/trie/": "https://raw.githubusercontent.com/serverless-dns/trie/v0.0.17/src/"
   }
 }
